@@ -18,9 +18,9 @@ ul li {
   margin: 30px;
 }
 .title {
-  font-size: 36px;
+  font-size: 40px;
   font-weight: 700;
-  line-height: 34px;
+  line-height: 40px;
   color: #ffffff;
   margin: 30px;
 }
@@ -28,9 +28,18 @@ ul li {
   font-size: 28px;
   font-weight: 400;
   line-height: 28px;
-  color: wheat;
+  color: rgb(248, 247, 244);
   margin: 30px;
 }
+.main-message {
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 28px;
+  font-style: italic;
+  color: darkblue;
+  margin: 30px;
+}
+
 .question-container {
   display: flex;
 }
@@ -65,4 +74,19 @@ ul li {
   line-height: 38px;
   color: white;
   text-align: center;
+}
+a {
+  text-decoration: none;
+}
+.setting {
+  margin: 50px;
+  font-size: 16px;
+}
+.subblock {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.subhead {
+  margin: 20px;
+  color: darkblue;
 }
