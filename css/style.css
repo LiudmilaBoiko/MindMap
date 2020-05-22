@@ -75,7 +75,8 @@ ul li {
   line-height: 24px;
   color: white;
   margin: 30px;
-  padding: 30px;
+  padding: 8px;
+  text-align: center;
 }
 .answer {
   font-size: 40px;
@@ -83,7 +84,8 @@ ul li {
   line-height: 38px;
   color: black;
   text-align: center;
-  margin-bottom: 30px;
+  margin: 30px;
+  padding: 30px;
 }
 a {
   text-decoration: none;
@@ -179,4 +181,22 @@ a {
   color: rgb(3, 3, 3);
   margin: 30px;
   text-align: center;
+}
+.mindmap {
+  margin: 50px;
+  border: darkblue;
+
+  border-radius: 30px;
+  box-shadow: 5px 9px 20px darkblue;
+}
+.mindmap-title {
+  font-size: 80px;
+  font-weight: 800;
+}
+.finish {
+  font-size: 45px;
+  font-weight: 400;
+  text-align: center;
+  margin: 30px;
+  color: darkblue;
 }
