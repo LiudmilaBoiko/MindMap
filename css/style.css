@@ -9,7 +9,7 @@ body {
   padding: 0px;
 }
 .wrapper {
-  background-color: rgb(150, 136, 221);
+  background-color: rgb(163, 151, 223);
 
   margin: 0 auto;
   max-width: 95%;
@@ -57,6 +57,7 @@ ul li {
   height: 130px;
   background-color: floralwhite;
   border-radius: 30px;
+  border: 2px solid darkblue;
   font-size: 20px;
   font-weight: 400;
   line-height: 24px;
