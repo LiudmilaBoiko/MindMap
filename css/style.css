@@ -201,3 +201,10 @@ a {
   margin: 30px;
   color: darkblue;
 }
+.author {
+  text-align: center;
+}
+.authors {
+  display: flex;
+  justify-content: center;
+}
